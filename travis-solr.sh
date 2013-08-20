@@ -74,6 +74,11 @@ download_and_run() {
             dir_conf="collection1/conf/"
             ;;
         4.2.1)
+            url="http://cs7002.vk.me/c537409/u723583/doc/5b8ad6a05903/solr-4_2_1.tgz"
+            dir_name="solr-4_2_1"
+            dir_conf="collection1/conf/"
+            ;;
+        4.2.01)
             url="http://archive.apache.org/dist/lucene/solr/4.2.1/solr-4.2.1.tgz"
             dir_name="solr-4.2.1"
             dir_conf="collection1/conf/"
