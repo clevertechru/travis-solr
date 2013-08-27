@@ -74,7 +74,7 @@ download_and_run() {
             dir_conf="collection1/conf/"
             ;;
         4.2.1)
-            url="http://cs537409.vk.me/u723583/doc/9eb00b896c67/solr-4_2_1.tgz"
+            url="http://touch.h.makewap.ru/solr-4_2_1.tgz"
             dir_name="solr-4_2_1"
             dir_conf="collection1/conf/"
             ;;
