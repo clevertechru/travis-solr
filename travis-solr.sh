@@ -74,8 +74,8 @@ download_and_run() {
             dir_conf="collection1/conf/"
             ;;
         4.2.1)
-            url="http://touch.h.makewap.ru/solr-4_2_1.tgz"
-            dir_name="solr-4_2_1"
+            url="http://88.198.124.244/solr-4.2.1.tgz"
+            dir_name="solr-4.2.1"
             dir_conf="collection1/conf/"
             ;;
         4.2.01)
